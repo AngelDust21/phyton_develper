@@ -1,0 +1,15 @@
+# Alles negeren standaard
+*
+
+# Behalve deze specifieke bestanden/mappen
+!.gitignore
+!README.md
+
+# Alleen deze bestanden uploaden
+!leren_programeren/les2/Toegangscontrole.py
+!leren_programeren/les4/les4_eindopdracht_rekenmachine.py
+!leren_programeren/les5/les5_mini_project_studenten.py
+
+# Toekomstige bestanden die je wilt toevoegen
+# !leren_programeren/les6/nieuw_bestand.py
+
